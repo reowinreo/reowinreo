@@ -12,7 +12,7 @@
 <h2>👋 ZHOU Weizhi <a href="https://www.scut.edu.cn/" target="_blank"><img src="https://img.shields.io/badge/SCUT-South%20China%20University%20of%20Technology-2563eb?style=flat-square&logo=google-scholar&logoColor=white" alt="SCUT"/></a></h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Software%20Engineering%20(UWA)-B.Eng.-7c3aed?style=for-the-badge" alt="major"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering%20-B.Eng.-7c3aed?style=for-the-badge" alt="major"/>
   <img src="https://img.shields.io/badge/IELTS-7.0-2563eb?style=for-the-badge&logo=ielts&logoColor=white" alt="IELTS"/>
 </p>
 
