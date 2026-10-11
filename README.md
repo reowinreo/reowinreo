@@ -167,8 +167,6 @@
 <!-- ============ Footer ============ -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=reowinreo&color=2563eb&style=flat-square" alt="views"/>
-<br><br>
 <a href="mailto:zwzoverseas@163.com"><img src="https://img.shields.io/badge/Email-zwzoverseas%40163.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
